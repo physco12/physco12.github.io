@@ -1,0 +1,25 @@
+body{
+	margin:0;
+	padding:0;
+	background:url(pt.jpg);
+	background-size:cover;
+}
+
+#aaa{
+	margin:50px auto;width:960px;height:500px;background:rgba(0,0,0,0.5);
+	
+}
+#ccc{
+	margin:2px;
+	margin-left:10%;
+	color:white;
+	font:15px Tahoma;
+}
+
+.bbb{
+	width:500px;height:500px;float:left;
+}
+img{
+	border:10px solid black;
+	border-radius:5px;margin-left:.5%;
+}
